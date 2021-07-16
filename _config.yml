@@ -1,16 +1,16 @@
 # User config
 author: "Jimmy Ly"
 tagline: "Pineapple Certfied Jekyll Theme"
-description: "Hi! I'm a Pharmacy student and serial hobbyist turned software engineer with an insatiable interest in solving problems. Due to my
-curious nature, I'm naturally drawn to challenges that allow me to think critically and creatively. I love bringing ideas to life through software development
+description: "Hi! I'm a Pharmacy student turned software engineer with an insatiable interest in solving problems. Due to my
+curious nature, I'm naturally drawn to challenges that allow me to think critically and creatively. I love bringing ideas to life through software development 
 "
 keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
+email: "lyjimmy19@gmail.com"
 linkedin: "https://www.linkedin.com/in/jimmy-ly-22b925134"
 github: "https://github.com/lyjimmy1"
 
 # Site config
-baseurl: "https://lyjimmy1.github.io"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
