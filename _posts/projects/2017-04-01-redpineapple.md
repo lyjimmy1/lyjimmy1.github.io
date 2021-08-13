@@ -7,26 +7,26 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  title: "Dream Scape"
+  type: "Project"
+  url: "https://github.com/lyjimmy1/Dream_Scape"
+  logo: "/assets/images/projects/redpineapple/dreamscapelogo.JPG"
+  tech: "HTML5, CSS3, Chakra-UI, JavaScript, PostgreSQL, React, Redux, Python, Flask, SQLAlchemy"
 
-agency:
-  title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+demo:
+  title: "Live Link"
+  url: "http://dream-scape.herokuapp.com/"
+  year: "2021"
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/redpineapple/dreamscape.JPG"
+    alt: "Home Page"
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
+    url: "/assets/images/projects/redpineapple/dreamscape3.JPG"
+    alt: "Rich-text-editor-api"
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    url: "/assets/images/projects/redpineapple/dreamscape4.JPG"
+    alt: "records page"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>Dream Scape is an Evernote clone that serves as a dream journal in which users can record their dreams and store them inside of a record. Dream entries are customizable depending on the users' preferences.</p>
