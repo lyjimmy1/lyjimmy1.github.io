@@ -7,26 +7,26 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Green Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/greenpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  title: "Taco Tea"
+  type: "Project"
+  url: "https://github.com/cpettet/Taco_Tea"
+  logo: "/assets/images/projects/greenpineapple/taco1.JPG"
+  tech: "HTML5, CSS3, Pug, Express, Javascript, PostgreSQL, NodeJS"
 
-agency:
-  title: "Green Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+demo:
+  title: "Live Link"
+  url: "http://taco-tea-group.herokuapp.com/splash"
+  year: "2021"
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/devices.jpg"
-    alt: "Green Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/greenpineapple/taco2.JPG"
+    alt: "splash page"
   - image:
-    url: "/assets/images/projects/greenpineapple/desktop.jpg"
-    alt: "Green Pineapple website on a desktop device"
+    url: "/assets/images/projects/greenpineapple/taco3.JPG"
+    alt: "feed page"
   - image:
-    url: "/assets/images/projects/greenpineapple/mobile.jpg"
-    alt: "Green Pineapple website on a mobile device"
+    url: "/assets/images/projects/greenpineapple/taco4.JPG"
+    alt: "making a post"
 ---
-<p>The pineapple is made up of mostly water (86%) and carbohydrates (13%), with almost no fat or protein. It has nutrients, vitamins, and minerals, including copper, potassium, calcium, magnesium, manganese, vitamin C, thiamin, B6, beta-carotene, and folate as well as soluble and insoluble fiber and bromelain.</p>
+<p>Taco Tea is a Medium clone that allows users to share stories and recipes of their favorite tacos!</p>
