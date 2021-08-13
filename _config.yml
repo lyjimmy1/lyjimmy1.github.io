@@ -11,7 +11,7 @@ github: "https://github.com/lyjimmy1"
 
 
 # Site config
-baseurl: "/pineapple"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
