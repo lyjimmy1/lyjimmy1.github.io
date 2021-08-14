@@ -56,6 +56,21 @@
 	}
 }
 
+.skills-list{
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+.skills-box{
+	padding-right: 4em;
+	padding-bottom: 2em;
+}
+
+.skills-box img#text{
+	font-size: 10px;
+}
+
 .projects-list {
 	@media (min-width: $breakpoint-small) {
 		margin-left: -1.5rem;
@@ -355,7 +370,7 @@
 }
 
 .contact,
-.follow {
+.follow{
 	@media (min-width: $breakpoint-medium) {
 		float: left;
 		margin-bottom: 0;
